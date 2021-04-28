@@ -1,0 +1,13 @@
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\bin\Debug\netcoreapp3.1\PreDirIntro.exe
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\bin\Debug\netcoreapp3.1\PreDirIntro.deps.json
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\bin\Debug\netcoreapp3.1\PreDirIntro.runtimeconfig.json
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\bin\Debug\netcoreapp3.1\PreDirIntro.runtimeconfig.dev.json
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\bin\Debug\netcoreapp3.1\PreDirIntro.dll
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\bin\Debug\netcoreapp3.1\PreDirIntro.pdb
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.csprojAssemblyReference.cache
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.AssemblyInfoInputs.cache
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.AssemblyInfo.cs
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.csproj.CoreCompileInputs.cache
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.dll
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.pdb
+C:\Users\Yasmin\source\repos\PreDirIntro\PreDirIntro\obj\Debug\netcoreapp3.1\PreDirIntro.genruntimeconfig.cache
